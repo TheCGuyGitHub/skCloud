@@ -1,0 +1,6 @@
+name: skCloud
+version: '${project.version}'
+main: de.thecguy.skcloud.Main
+api-version: '1.20'
+load: STARTUP
+authors: [TheCGuy]
