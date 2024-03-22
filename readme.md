@@ -3,4 +3,4 @@ this is a small project that i am going to start, beacause i really want to have
 
 
 
-## THIS IS NOT A PUBLIC THING!!!!!!!!!!!!!!!!
+## This Project will probably not recive any update, beacuse i don't now lots about skript and cloudnet apis
